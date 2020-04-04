@@ -7,4 +7,4 @@ $ perl Makefile.PL
 $ make
 $ sudo make install
 
-### This repository is forked from iitd-plos/iitd-plos.github.io
+### This repository is forked from iitd-plos/iitd-plos.github.io/col100. Thanks to Prof. Parag Singla, IIT Delhi and Prof. Sourav Bansal, IIT Delhi
